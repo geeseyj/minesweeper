@@ -31,38 +31,3 @@
   border-top: 2px solid gray;
   border-left: 2px solid gray;
 }
-
-.cell-2::before {
-  color: green;
-  content: '2';
-}
-
-.cell-2::before {
-  color: green;
-  content: '3';
-}
-
-.cell-2::before {
-  color: green;
-  content: '4';
-}
-
-.cell-2::before {
-  color: green;
-  content: '5';
-}
-
-.cell-2::before {
-  color: green;
-  content: '6';
-}
-
-.cell-2::before {
-  color: green;
-  content: '7';
-}
-
-.cell-2::before {
-  color: green;
-  content: '8';
-}
